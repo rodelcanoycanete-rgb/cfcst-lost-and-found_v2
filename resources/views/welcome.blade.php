@@ -82,7 +82,7 @@
 
             <!-- Footer Copyright -->
             <div class="relative z-10 text-center text-xs text-gray-400 pb-1">
-                &copy; POWERED BY: Rodel Cañete.
+                &copy; POWERED BY: Rodel Cañete. ccfcst lost and found
             </div>
 
         </div>
